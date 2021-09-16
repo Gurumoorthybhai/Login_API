@@ -13,7 +13,7 @@ Task on UI:
 Task on Nodejs
 1. Added a new API (GET /audit) for getting all the user information.
 2. Added login & logout time & other information about user details.
-3. If a user is not having the AUDITOR role the /audit API should return an HTTP 401 response
+3. Updated Authenticated & Authorized role based functionality(AUDITOR role the /audit API should return an HTTP 401 response).
 
 
 
